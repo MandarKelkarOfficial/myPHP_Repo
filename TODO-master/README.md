@@ -32,6 +32,5 @@ $result=mysqli_query($dbconfig,"SELECT * FROM todo");
 ### Step4:
 Run the project on your browser.. http://localhost/TODO
 
-### DEMO
-http://projects.psuresh.com.np/TODO/
+
 
