@@ -3,8 +3,8 @@
 <?php
 /*Database Connection*/
 $host = 'localhost';
-$username = 'root';
-$password = 'maddy';
+$username = '';
+$password = '';
 $database = 'todo';
 global $dbconfig;
 $dbconfig = mysqli_connect($host, $username, $password, $database) or die("An Error occured while connecting to the database");
