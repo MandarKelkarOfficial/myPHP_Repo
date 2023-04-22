@@ -1,15 +1,6 @@
 
-/*
-      Author  : Suresh Pokharel
-      Email   : suresh.wrc@gmail.com
-      GitHub  : github.com/suresh021
-      URL     : psuresh.com.np
-*/ 
-
 -- phpMyAdmin SQL Dump
 -- version 4.6.5.2
--- https://www.phpmyadmin.net/
---
 -- Host: 127.0.0.1
 -- Generation Time: Feb 19, 2017 at 03:40 AM
 -- Server version: 5.6.16
